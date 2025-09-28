@@ -28,7 +28,8 @@ int main()
             cout<<"D";
     else if(x<60)
             cout<<"F";
-    
+    else
+            cout<<"Please enter a valid number";
     
     
     
