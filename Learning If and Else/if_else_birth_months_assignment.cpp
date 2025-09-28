@@ -14,7 +14,7 @@ int main()
 {
     
     int x;
-    
+
     cout<<"What is your birth months number?"<<endl;
     cin>>x;
     if (x==1){
