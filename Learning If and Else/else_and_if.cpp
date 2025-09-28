@@ -32,10 +32,5 @@ int main ()
   
   cout<<"Bye bye";
   
-  
-  
-  
-  
-  
   return 0;
 }
