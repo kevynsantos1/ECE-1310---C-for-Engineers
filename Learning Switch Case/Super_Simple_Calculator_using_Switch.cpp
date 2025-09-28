@@ -44,6 +44,7 @@ int main()
             
         default:
             cout<<"You did not provide a mathematical operator";
+            break;
     }
     
    
