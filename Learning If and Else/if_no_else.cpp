@@ -16,7 +16,6 @@ main ()
 
   char x;
 
-
   cout << "Pick a single character please" << endl;
   cin >> x;
   if (x == 'A')
